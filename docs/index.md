@@ -5,21 +5,17 @@ layout: home
 hero:
   name: "Agents 0 to 1"
   text: "Learning path for AI agents."
-  tagline: My great project tagline
+  tagline: (... for tagline)
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Chapter 1
+      link: /chapter1/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: placeholder
+      link: /
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
