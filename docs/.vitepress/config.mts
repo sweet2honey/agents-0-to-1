@@ -3,6 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Agents 0 to 1",
+  // 项目站地址是 https://sweet2honey.github.io/agents-0-to-1/
+  base: '/agents-0-to-1/',
   description: "Learning path for AI agents.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
